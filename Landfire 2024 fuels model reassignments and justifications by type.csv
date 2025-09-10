@@ -1,0 +1,7 @@
+Vegetation Type,Sample Number,Sample Area (scar),LF24 model (scar),Raster code (scar),Reference Sample Area,LF24 model (ref),Raster code (ref)
+Chaparral Shrubland,10565,Alisal Fire 2021,SH1,141,Adjacent unburned ring (>20 yr),SH5,145
+Grassland,5925,Alisal Fire 2021,GR1,101,Adjacent unburned ring (>20 yr),GR2,102
+Grassland,3,Alisal Fire 2021,GR3,103,Adjacent unburned ring (>20 yr),GR3,103
+Nonburnable,1256,Alisal Fire 2021,NB1,91,Adjacent unburned ring (>20 yr),NB1,91
+Timber Litter,413,Alisal Fire 2021,TL1,181,Adjacent unburned ring (>20 yr),TL1,181
+Woodland (Drainages),23,Alisal Fire 2021,TU2,162,Adjacent unburned ring (>20 yr),TU3,163

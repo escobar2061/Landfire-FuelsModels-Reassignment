@@ -1,0 +1,27 @@
+Vegetation Type,Sample Number,Sample Area (scar),LF24 model (scar),Raster code (scar),Reference Sample Area,LF24 model (ref),Raster code (ref)
+Chaparral Shrubland,1067,Alisal Fire 2021,SH1,141,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,11127,Alisal Fire 2021,SH2,142,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,14,Alisal Fire 2021,SH3,143,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,71061,Alisal Fire 2021,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,497542,Alisal Fire 2021,SH5,145,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Grassland,1280,Alisal Fire 2021,GR1,101,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,32688,Alisal Fire 2021,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,1696,Alisal Fire 2021,GR3,103,Adjacent unburned 1 km buffer (>20 yr),GR3,103
+Grass–Shrub,14686,Alisal Fire 2021,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,302259,Alisal Fire 2021,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,4368,Alisal Fire 2021,GS3,123,Adjacent unburned 1 km buffer (>20 yr),GS3,123
+Nonburnable,17334,Alisal Fire 2021,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,1,Alisal Fire 2021,NB8,98,Adjacent unburned 1 km buffer (>20 yr),NB8,98
+Nonburnable,10173,Alisal Fire 2021,NB9,99,Adjacent unburned 1 km buffer (>20 yr),NB9,99
+Timber Litter,1272,Alisal Fire 2021,TL1,181,Adjacent unburned 1 km buffer (>20 yr),TL1,181
+Timber Litter,10,Alisal Fire 2021,TL2,182,Adjacent unburned 1 km buffer (>20 yr),TL2,182
+Timber Litter,1792,Alisal Fire 2021,TL3,183,Adjacent unburned 1 km buffer (>20 yr),TL3,183
+Timber Litter,36,Alisal Fire 2021,TL4,184,Adjacent unburned 1 km buffer (>20 yr),TL4,184
+Timber Litter,4763,Alisal Fire 2021,TL5,185,Adjacent unburned 1 km buffer (>20 yr),TL5,185
+Timber Litter,1980,Alisal Fire 2021,TL6,186,Adjacent unburned 1 km buffer (>20 yr),TL6,186
+Timber Litter,10,Alisal Fire 2021,TL7,187,Adjacent unburned 1 km buffer (>20 yr),TL7,187
+Timber Litter,1,Alisal Fire 2021,TL9,189,Adjacent unburned 1 km buffer (>20 yr),TL9,189
+Woodland (Drainages),739,Alisal Fire 2021,TU1,161,Adjacent unburned 1 km buffer (>20 yr),TU5,165
+Woodland (Drainages),2376,Alisal Fire 2021,TU2,162,Adjacent unburned 1 km buffer (>20 yr),TU2,162
+Woodland (Drainages),65,Alisal Fire 2021,TU3,163,Adjacent unburned 1 km buffer (>20 yr),TU3,163
+Woodland (Drainages),102474,Alisal Fire 2021,TU5,165,Adjacent unburned 1 km buffer (>20 yr),TU5,165
