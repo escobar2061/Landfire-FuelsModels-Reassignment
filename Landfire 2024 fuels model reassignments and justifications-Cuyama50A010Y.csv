@@ -1,0 +1,20 @@
+Vegetation Type,Sample Number,Sample Area (scar),LF24 model (scar),Raster code (scar),Reference Sample Area,LF24 model (ref),Raster code (ref)
+Chaparral Shrubland,787,Cuyama50A010Y,SH1,141,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,927,Cuyama50A010Y,SH2,142,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,3400,Cuyama50A010Y,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,1,Cuyama50A010Y,SH5,145,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Grassland,7635,Cuyama50A010Y,GR1,101,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,3801,Cuyama50A010Y,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,8666,Cuyama50A010Y,GR3,103,Adjacent unburned 1 km buffer (>20 yr),GR3,103
+Grass–Shrub,3998,Cuyama50A010Y,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS1,121
+Grass–Shrub,2214,Cuyama50A010Y,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Nonburnable,1099,Cuyama50A010Y,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,539,Cuyama50A010Y,NB9,99,Adjacent unburned 1 km buffer (>20 yr),NB9,99
+Timber Litter,2,Cuyama50A010Y,TL1,181,Adjacent unburned 1 km buffer (>20 yr),TL1,181
+Timber Litter,40,Cuyama50A010Y,TL2,182,Adjacent unburned 1 km buffer (>20 yr),TL2,182
+Timber Litter,39,Cuyama50A010Y,TL3,183,Adjacent unburned 1 km buffer (>20 yr),TL3,183
+Timber Litter,2,Cuyama50A010Y,TL4,184,Adjacent unburned 1 km buffer (>20 yr),TL4,184
+Timber Litter,2,Cuyama50A010Y,TL6,186,Adjacent unburned 1 km buffer (>20 yr),TL6,186
+Timber Litter,35,Cuyama50A010Y,TL8,188,Adjacent unburned 1 km buffer (>20 yr),TL8,188
+Woodland (Drainages),135,Cuyama50A010Y,TU1,161,Adjacent unburned 1 km buffer (>20 yr),TU5,165
+Woodland (Drainages),1,Cuyama50A010Y,TU5,165,Adjacent unburned 1 km buffer (>20 yr),TU5,165

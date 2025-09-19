@@ -1,0 +1,15 @@
+Vegetation Type,Sample Number,Sample Area (scar),LF24 model (scar),Raster code (scar),Reference Sample Area,LF24 model (ref),Raster code (ref)
+Chaparral Shrubland,3,CentralCoast_50A1120Y,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,1965,CentralCoast_50A1120Y,SH5,145,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Grassland,1,CentralCoast_50A1120Y,GR1,101,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,1456,CentralCoast_50A1120Y,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,7,CentralCoast_50A1120Y,GR3,103,Adjacent unburned 1 km buffer (>20 yr),GR3,103
+Grass–Shrub,30,CentralCoast_50A1120Y,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,5221,CentralCoast_50A1120Y,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,1966,CentralCoast_50A1120Y,GS3,123,Adjacent unburned 1 km buffer (>20 yr),GS3,123
+Nonburnable,339,CentralCoast_50A1120Y,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,74,CentralCoast_50A1120Y,NB3,93,Adjacent unburned 1 km buffer (>20 yr),NB3,93
+Nonburnable,244,CentralCoast_50A1120Y,NB9,99,Adjacent unburned 1 km buffer (>20 yr),NB9,99
+Timber Litter,52,CentralCoast_50A1120Y,TL3,183,Adjacent unburned 1 km buffer (>20 yr),TL3,183
+Timber Litter,176,CentralCoast_50A1120Y,TL6,186,Adjacent unburned 1 km buffer (>20 yr),TL6,186
+Woodland (Drainages),2,CentralCoast_50A1120Y,TU3,163,Adjacent unburned 1 km buffer (>20 yr),TU3,163

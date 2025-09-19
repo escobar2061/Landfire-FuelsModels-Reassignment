@@ -1,0 +1,30 @@
+Vegetation Type,Sample Number,Sample Area (scar),LF24 model (scar),Raster code (scar),Reference Sample Area,LF24 model (ref),Raster code (ref)
+Chaparral Shrubland,10722,SouthCoast_50A010Y,SH1,141,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,222519,SouthCoast_50A010Y,SH2,142,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,23,SouthCoast_50A010Y,SH3,143,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,182,SouthCoast_50A010Y,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,13665,SouthCoast_50A010Y,SH5,145,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,2,SouthCoast_50A010Y,SH6,146,Adjacent unburned 1 km buffer (>20 yr),SH6,146
+Chaparral Shrubland,30,SouthCoast_50A010Y,SH7,147,Adjacent unburned 1 km buffer (>20 yr),SH7,147
+Grassland,3664,SouthCoast_50A010Y,GR1,101,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,15537,SouthCoast_50A010Y,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grass–Shrub,30005,SouthCoast_50A010Y,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,32446,SouthCoast_50A010Y,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,1857,SouthCoast_50A010Y,GS3,123,Adjacent unburned 1 km buffer (>20 yr),GS3,123
+Nonburnable,9054,SouthCoast_50A010Y,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,27,SouthCoast_50A010Y,NB3,93,Adjacent unburned 1 km buffer (>20 yr),NB3,93
+Nonburnable,361,SouthCoast_50A010Y,NB8,98,Adjacent unburned 1 km buffer (>20 yr),NB8,98
+Nonburnable,996,SouthCoast_50A010Y,NB9,99,Adjacent unburned 1 km buffer (>20 yr),NB9,99
+Timber Litter,436,SouthCoast_50A010Y,TL1,181,Adjacent unburned 1 km buffer (>20 yr),TL1,181
+Timber Litter,106,SouthCoast_50A010Y,TL2,182,Adjacent unburned 1 km buffer (>20 yr),TL2,182
+Timber Litter,3537,SouthCoast_50A010Y,TL3,183,Adjacent unburned 1 km buffer (>20 yr),TL3,183
+Timber Litter,5928,SouthCoast_50A010Y,TL4,184,Adjacent unburned 1 km buffer (>20 yr),TL4,184
+Timber Litter,126,SouthCoast_50A010Y,TL5,185,Adjacent unburned 1 km buffer (>20 yr),TL5,185
+Timber Litter,1384,SouthCoast_50A010Y,TL6,186,Adjacent unburned 1 km buffer (>20 yr),TL6,186
+Timber Litter,223,SouthCoast_50A010Y,TL7,187,Adjacent unburned 1 km buffer (>20 yr),TL7,187
+Timber Litter,1130,SouthCoast_50A010Y,TL8,188,Adjacent unburned 1 km buffer (>20 yr),TL8,188
+Timber Litter,1,SouthCoast_50A010Y,TL9,189,Adjacent unburned 1 km buffer (>20 yr),TL9,189
+Woodland (Drainages),1845,SouthCoast_50A010Y,TU1,161,Adjacent unburned 1 km buffer (>20 yr),TU5,165
+Woodland (Drainages),981,SouthCoast_50A010Y,TU2,162,Adjacent unburned 1 km buffer (>20 yr),TU3,163
+Woodland (Drainages),41,SouthCoast_50A010Y,TU3,163,Adjacent unburned 1 km buffer (>20 yr),TU3,163
+Woodland (Drainages),45650,SouthCoast_50A010Y,TU5,165,Adjacent unburned 1 km buffer (>20 yr),TU5,165

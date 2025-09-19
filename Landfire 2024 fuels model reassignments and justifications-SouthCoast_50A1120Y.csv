@@ -1,0 +1,23 @@
+Vegetation Type,Sample Number,Sample Area (scar),LF24 model (scar),Raster code (scar),Reference Sample Area,LF24 model (ref),Raster code (ref)
+Chaparral Shrubland,1023,SouthCoast_50A1120Y,SH2,142,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,249,SouthCoast_50A1120Y,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,32594,SouthCoast_50A1120Y,SH5,145,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,9,SouthCoast_50A1120Y,SH7,147,Adjacent unburned 1 km buffer (>20 yr),SH7,147
+Grassland,54,SouthCoast_50A1120Y,GR1,101,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,2378,SouthCoast_50A1120Y,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grass–Shrub,1213,SouthCoast_50A1120Y,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,14040,SouthCoast_50A1120Y,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,1686,SouthCoast_50A1120Y,GS3,123,Adjacent unburned 1 km buffer (>20 yr),GS3,123
+Nonburnable,4227,SouthCoast_50A1120Y,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,20,SouthCoast_50A1120Y,NB3,93,Adjacent unburned 1 km buffer (>20 yr),NB3,93
+Nonburnable,96,SouthCoast_50A1120Y,NB8,98,Adjacent unburned 1 km buffer (>20 yr),NB8,98
+Nonburnable,81,SouthCoast_50A1120Y,NB9,99,Adjacent unburned 1 km buffer (>20 yr),NB9,99
+Timber Litter,694,SouthCoast_50A1120Y,TL3,183,Adjacent unburned 1 km buffer (>20 yr),TL3,183
+Timber Litter,25,SouthCoast_50A1120Y,TL4,184,Adjacent unburned 1 km buffer (>20 yr),TL4,184
+Timber Litter,222,SouthCoast_50A1120Y,TL5,185,Adjacent unburned 1 km buffer (>20 yr),TL5,185
+Timber Litter,12069,SouthCoast_50A1120Y,TL6,186,Adjacent unburned 1 km buffer (>20 yr),TL6,186
+Timber Litter,82,SouthCoast_50A1120Y,TL8,188,Adjacent unburned 1 km buffer (>20 yr),TL8,188
+Timber Litter,5,SouthCoast_50A1120Y,TL9,189,Adjacent unburned 1 km buffer (>20 yr),TL9,189
+Woodland (Drainages),82,SouthCoast_50A1120Y,TU2,162,Adjacent unburned 1 km buffer (>20 yr),TU2,162
+Woodland (Drainages),58,SouthCoast_50A1120Y,TU3,163,Adjacent unburned 1 km buffer (>20 yr),TU3,163
+Woodland (Drainages),11275,SouthCoast_50A1120Y,TU5,165,Adjacent unburned 1 km buffer (>20 yr),TU5,165

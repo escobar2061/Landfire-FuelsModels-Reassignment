@@ -1,0 +1,38 @@
+Vegetation Type,Sample Number,Sample Area (scar),LF24 model (scar),Raster code (scar),Reference Sample Area,LF24 model (ref),Raster code (ref)
+Chaparral Shrubland,769,Lake Fire 2024,SH1,141,Adjacent unburned 1 km buffer (>20 yr),SH2,142
+Chaparral Shrubland,12622,Lake Fire 2024,SH1,141,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,11664,Lake Fire 2024,SH2,142,Adjacent unburned 1 km buffer (>20 yr),SH2,142
+Chaparral Shrubland,1435,Lake Fire 2024,SH2,142,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,611,Lake Fire 2024,SH4,144,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Chaparral Shrubland,2,Lake Fire 2024,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,96,Lake Fire 2024,SH5,145,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Grassland,10963,Lake Fire 2024,GR1,101,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,6973,Lake Fire 2024,GR1,101,Adjacent unburned 1 km buffer (>20 yr),GS1,121
+Grassland,3496,Lake Fire 2024,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,37,Lake Fire 2024,GR3,103,Adjacent unburned 1 km buffer (>20 yr),GR3,103
+Grass–Shrub,8109,Lake Fire 2024,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,1356,Lake Fire 2024,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS3,123
+Grass–Shrub,30852,Lake Fire 2024,GS1,121,Adjacent unburned 1 km buffer (>20 yr),SH1,141
+Grass–Shrub,12662,Lake Fire 2024,GS1,121,Adjacent unburned 1 km buffer (>20 yr),SH3,143
+Grass–Shrub,6593,Lake Fire 2024,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,194,Lake Fire 2024,GS2,122,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Grass–Shrub,19394,Lake Fire 2024,GS2,122,Adjacent unburned 1 km buffer (>20 yr),SH2,142
+Grass–Shrub,16633,Lake Fire 2024,GS2,122,Adjacent unburned 1 km buffer (>20 yr),SH3,143
+Grass–Shrub,67,Lake Fire 2024,GS3,123,Adjacent unburned 1 km buffer (>20 yr),GS3,123
+Nonburnable,4299,Lake Fire 2024,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,80,Lake Fire 2024,NB8,98,Adjacent unburned 1 km buffer (>20 yr),NB8,98
+Nonburnable,853,Lake Fire 2024,NB9,99,Adjacent unburned 1 km buffer (>20 yr),NB9,99
+Timber Litter,308,Lake Fire 2024,TL1,181,Adjacent unburned 1 km buffer (>20 yr),TL1,181
+Timber Litter,13381,Lake Fire 2024,TL1,181,Adjacent unburned 1 km buffer (>20 yr),TL6,186
+Timber Litter,209,Lake Fire 2024,TL2,182,Adjacent unburned 1 km buffer (>20 yr),TL2,182
+Timber Litter,280,Lake Fire 2024,TL3,183,Adjacent unburned 1 km buffer (>20 yr),SH2,142
+Timber Litter,564,Lake Fire 2024,TL3,183,Adjacent unburned 1 km buffer (>20 yr),TL3,183
+Timber Litter,182,Lake Fire 2024,TL3,183,Adjacent unburned 1 km buffer (>20 yr),TU1,161
+Timber Litter,34,Lake Fire 2024,TL4,184,Adjacent unburned 1 km buffer (>20 yr),TL4,184
+Timber Litter,321,Lake Fire 2024,TL5,185,Adjacent unburned 1 km buffer (>20 yr),TL5,185
+Timber Litter,32,Lake Fire 2024,TL6,186,Adjacent unburned 1 km buffer (>20 yr),TL6,186
+Timber Litter,309,Lake Fire 2024,TL6,186,Adjacent unburned 1 km buffer (>20 yr),TU1,161
+Timber Litter,3986,Lake Fire 2024,TL6,186,Adjacent unburned 1 km buffer (>20 yr),TU2,162
+Woodland (Drainages),4136,Lake Fire 2024,TU1,161,Adjacent unburned 1 km buffer (>20 yr),TU5,165
+Woodland (Drainages),64,Lake Fire 2024,TU2,162,Adjacent unburned 1 km buffer (>20 yr),TU2,162
+Woodland (Drainages),40,Lake Fire 2024,TU5,165,Adjacent unburned 1 km buffer (>20 yr),TU5,165

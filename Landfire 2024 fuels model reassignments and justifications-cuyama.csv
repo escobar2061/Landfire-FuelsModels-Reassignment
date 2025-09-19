@@ -1,0 +1,71 @@
+Vegetation Type,Sample Number,Sample Area (scar),LF24 model (scar),Raster code (scar),Reference Sample Area,LF24 model (ref),Raster code (ref)
+Chaparral Shrubland,625,Cuyama,SH1,141,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,162,Cuyama,SH1,141,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,28,Cuyama,SH2,142,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,712,Cuyama,SH2,142,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,187,Cuyama,SH2,142,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Chaparral Shrubland,30,Cuyama,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,503,Cuyama,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,3119,Cuyama,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,16,Cuyama,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,17,Cuyama,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,251,Cuyama,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,18,Cuyama,SH4,144,Adjacent unburned 1 km buffer (>20 yr),SH4,144
+Chaparral Shrubland,1,Cuyama,SH5,145,Adjacent unburned 1 km buffer (>20 yr),SH5,145
+Grassland,30,Cuyama,GR1,101,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,2,Cuyama,GR1,101,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,5804,Cuyama,GR1,101,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,1801,Cuyama,GR1,101,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,1,Cuyama,GR1,101,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,590,Cuyama,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,789,Cuyama,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,3065,Cuyama,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,1344,Cuyama,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,42,Cuyama,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,146,Cuyama,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,518,Cuyama,GR2,102,Adjacent unburned 1 km buffer (>20 yr),GR2,102
+Grassland,8663,Cuyama,GR3,103,Adjacent unburned 1 km buffer (>20 yr),GR3,103
+Grassland,1,Cuyama,GR3,103,Adjacent unburned 1 km buffer (>20 yr),GR3,103
+Grassland,3,Cuyama,GR3,103,Adjacent unburned 1 km buffer (>20 yr),GR3,103
+Grassland,3,Cuyama,GR3,103,Adjacent unburned 1 km buffer (>20 yr),GR3,103
+Grass–Shrub,446,Cuyama,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS1,121
+Grass–Shrub,103,Cuyama,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS1,121
+Grass–Shrub,2415,Cuyama,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS1,121
+Grass–Shrub,41,Cuyama,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS1,121
+Grass–Shrub,5,Cuyama,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS1,121
+Grass–Shrub,1137,Cuyama,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS1,121
+Grass–Shrub,33,Cuyama,GS1,121,Adjacent unburned 1 km buffer (>20 yr),GS1,121
+Grass–Shrub,49,Cuyama,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,69,Cuyama,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,18,Cuyama,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,11,Cuyama,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,118,Cuyama,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,2147,Cuyama,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Grass–Shrub,11,Cuyama,GS2,122,Adjacent unburned 1 km buffer (>20 yr),GS2,122
+Nonburnable,21,Cuyama,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,136,Cuyama,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,963,Cuyama,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,321,Cuyama,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,7,Cuyama,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,115,Cuyama,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,224,Cuyama,NB1,91,Adjacent unburned 1 km buffer (>20 yr),NB1,91
+Nonburnable,15,Cuyama,NB9,99,Adjacent unburned 1 km buffer (>20 yr),NB9,99
+Nonburnable,256,Cuyama,NB9,99,Adjacent unburned 1 km buffer (>20 yr),NB9,99
+Nonburnable,21,Cuyama,NB9,99,Adjacent unburned 1 km buffer (>20 yr),NB9,99
+Nonburnable,109,Cuyama,NB9,99,Adjacent unburned 1 km buffer (>20 yr),NB9,99
+Nonburnable,268,Cuyama,NB9,99,Adjacent unburned 1 km buffer (>20 yr),NB9,99
+Nonburnable,48,Cuyama,NB9,99,Adjacent unburned 1 km buffer (>20 yr),NB9,99
+Timber Litter,2,Cuyama,TL1,181,Adjacent unburned 1 km buffer (>20 yr),TL1,181
+Timber Litter,40,Cuyama,TL2,182,Adjacent unburned 1 km buffer (>20 yr),TL2,182
+Timber Litter,38,Cuyama,TL3,183,Adjacent unburned 1 km buffer (>20 yr),TL3,183
+Timber Litter,12,Cuyama,TL3,183,Adjacent unburned 1 km buffer (>20 yr),TL3,183
+Timber Litter,1,Cuyama,TL3,183,Adjacent unburned 1 km buffer (>20 yr),TL3,183
+Timber Litter,2,Cuyama,TL4,184,Adjacent unburned 1 km buffer (>20 yr),TL4,184
+Timber Litter,2,Cuyama,TL6,186,Adjacent unburned 1 km buffer (>20 yr),TL6,186
+Timber Litter,35,Cuyama,TL8,188,Adjacent unburned 1 km buffer (>20 yr),TL8,188
+Woodland (Drainages),135,Cuyama,TU1,161,Adjacent unburned 1 km buffer (>20 yr),TU5,165
+Woodland (Drainages),1,Cuyama,TU3,163,Adjacent unburned 1 km buffer (>20 yr),TU3,163
+Woodland (Drainages),7,Cuyama,TU3,163,Adjacent unburned 1 km buffer (>20 yr),TU3,163
+Woodland (Drainages),1,Cuyama,TU5,165,Adjacent unburned 1 km buffer (>20 yr),TU5,165
+Woodland (Drainages),1,Cuyama,TU5,165,Adjacent unburned 1 km buffer (>20 yr),TU5,165
+Woodland (Drainages),1,Cuyama,TU5,165,Adjacent unburned 1 km buffer (>20 yr),TU5,165
